@@ -1,0 +1,37 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/0umf92h1sb77c.js"
+3:"/_next/static/chunks/2ol_wr3q3f4i1.js"
+4:I[2971,["$2","$3"],"default"]
+5:I[39756,["$2","$3"],"default"]
+6:I[37457,["$2","$3"],"default"]
+7:I[22016,["$2","$3"],""]
+8:I[91563,["$2","$3"],"default"]
+f:I[97367,["$2","$3"],"OutletBoundary"]
+10:"$Sreact.suspense"
+13:"ViewportBoundary"
+14:I[97367,["$2","$3"],"$13"]
+15:"MetadataBoundary"
+16:I[97367,["$2","$3"],"$15"]
+:HL["/_next/static/chunks/1jn5pp16y57y5.css","style"]
+a:X
+d:X
+d:C
+e:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","section",null,{"className":"phead nf","children":[["$","p",null,{"className":"eyebrow","children":"Ошибка 404"}],["$","h1",null,{"className":"phead__title","children":"Такой страницы нет"}],["$","p",null,{"className":"phead__lead","children":"Возможно, ссылка устарела или в адресе опечатка. Начните с главной или посмотрите проекты."}],["$","div",null,{"className":"hero__actions","children":[["$","$L7",null,{"className":"btn btn--light","href":"/","children":"На главную"}],["$","$L7",null,{"className":"btn btn--ghost","href":"/projects","children":"Проекты"}]]}]]}],null,["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]]}],"p":"$@12","v":null,"s":"$a"}}]]
+b:[["children",{"s":"/_not-found","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@c","v":"$d","s":"$a"},"c":"$Qe"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1jn5pp16y57y5.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/0umf92h1sb77c.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/2ol_wr3q3f4i1.js","async":true}]],["$","html",null,{"lang":"ru","className":"t7sVdG_variable hdYSwG_variable","suppressHydrationWarning":true,"children":["$","body",null,{"children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"document.documentElement.classList.add('js')"}}],["$","a",null,{"className":"skip","href":"#main","children":"Перейти к содержанию"}],["$","$L4",null,{}],["$","main",null,{"id":"main","children":["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}],"notFound":[["$","section",null,{"className":"phead nf","children":[["$","p",null,{"className":"eyebrow","children":"Ошибка 404"}],["$","h1",null,{"className":"phead__title","children":"Такой страницы нет"}],["$","p",null,{"className":"phead__lead","children":"Возможно, ссылка устарела или в адресе опечатка. Начните с главной или посмотрите проекты."}],["$","div",null,{"className":"hero__actions","children":[["$","$L7",null,{"className":"btn btn--light","href":"/","children":"На главную"}],["$","$L7",null,{"className":"btn btn--ghost","href":"/projects","children":"Проекты"}]]}]]}],[]]}]}],["$","footer",null,{"className":"foot","children":[["$","div",null,{"className":"foot__inner","children":[["$","div",null,{"className":"foot__brand","children":[["$","$L7",null,{"href":"/","className":"foot__name","children":"Amiriddin Sharofiddinov"}],["$","p",null,{"className":"foot__line","children":["Веб-разработчик"," · ","Ташкент",". Сайты, мини-аппы, боты и CRM для бизнеса."]}]]}],["$","nav",null,{"className":"foot__col","aria-label":"Разделы","children":[["$","p",null,{"className":"foot__head","children":"Разделы"}],[["$","$L7","/projects",{"href":"/projects","children":"Проекты"}],["$","$L7","/about",{"href":"/about","children":"Обо мне"}],["$","$L7","/contacts",{"href":"/contacts","children":"Контакты"}]]]}],["$","div",null,{"className":"foot__col","children":[["$","p",null,{"className":"foot__head","children":"Контакты"}],[["$","p","telegram",{"className":"foot__contact","children":[["$","span",null,{"children":"Telegram"}],["$","a",null,{"className":"contact-value","href":"https://t.me/Amir4ik_LIVE","target":"_blank","rel":"noreferrer","children":"@Amir4ik_LIVE"}]]}],["$","p","instagram",{"className":"foot__contact","children":[["$","span",null,{"children":"Instagram"}],["$","a",null,{"className":"contact-value","href":"https://instagram.com/amir_sharofiddinov","target":"_blank","rel":"noreferrer","children":"@amir_sharofiddinov"}]]}]]]}]]}],["$","div",null,{"className":"foot__bottom","children":[["$","span",null,{"children":["© ",2026," ","Amiriddin Sharofiddinov"]}],["$","span",null,{"children":"Сделано вручную, без конструкторов"}]]}]]}],["$","$L8",null,{}]]}]}]]}],"p":"$@9","v":null,"s":"$a"},"c":"$Qb"},"h":{"r":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L14",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#070708"}]]}],["$","$L16",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$10",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Страница не найдена — Amiriddin Sharofiddinov"}],["$","meta","1",{"name":"description","content":"Делаю сайты, Telegram мини-аппы, ботов и системы заказов для бизнеса в Ташкенте."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","meta","3",{"name":"color-scheme","content":"only dark"}],["$","meta","4",{"property":"og:title","content":"Amiriddin Sharofiddinov — сайты, мини-аппы, боты и CRM"}],["$","meta","5",{"property":"og:description","content":"Делаю сайты, Telegram мини-аппы, ботов и системы заказов для бизнеса в Ташкенте."}],["$","meta","6",{"property":"og:site_name","content":"Amiriddin Sharofiddinov"}],["$","meta","7",{"property":"og:locale","content":"ru_RU"}],["$","meta","8",{"property":"og:image","content":"https://amir4iklive.github.io/og.jpg"}],["$","meta","9",{"property":"og:image:width","content":"1200"}],["$","meta","10",{"property":"og:image:height","content":"630"}],["$","meta","11",{"property":"og:image:alt","content":"Amiriddin Sharofiddinov — сайты, мини-аппы, боты и CRM"}],["$","meta","12",{"property":"og:type","content":"website"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Amiriddin Sharofiddinov — сайты, мини-аппы, боты и CRM"}],"$L17","$L18","$L19","$L1a","$L1b"]}]}],null]}],"$L1c"]}],"p":"$@1d","v":null,"s":"$a"}},"a":"$@1e","u":"$@1f","b":"yZ_NUAEKfZ6cNUwNlqLV_"}
+20:I[27201,["$2","$3"],"IconMark"]
+11:null
+17:["$","meta","15",{"name":"twitter:description","content":"Делаю сайты, Telegram мини-аппы, ботов и системы заказов для бизнеса в Ташкенте."}]
+18:["$","meta","16",{"name":"twitter:image","content":"https://amir4iklive.github.io/og.jpg"}]
+19:["$","link","17",{"rel":"icon","href":"/favicon.ico?favicon.1y26ri8yu77g-.ico","sizes":"64x64","type":"image/x-icon"}]
+1a:["$","link","18",{"rel":"icon","href":"/icon.svg?icon.0d6d65uo4bvgk.svg","sizes":"any","type":"image/svg+xml"}]
+1b:["$","$L20","19",{}]
+1c:["$","meta",null,{"name":"next-size-adjust","content":""}]
+a:300
+1f:true
+a:C
+1e:0
+c:"$undefined"
+9:"$undefined"
+1d:"$undefined"
+12:"$undefined"
